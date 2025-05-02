@@ -1,31 +1,31 @@
 {
   "lives": [
     {
-      "name": "快直播电视(python)",
+      "name": "流畅看直播【ok专用PY】",
       "type": 3,
       "api": "https://ghfast.top/https://raw.githubusercontent.com/Heiwk/YUlong/main/py/kzb.py",
       "ext": {}
     },
     {
-      "name": "快直播体育(python)",
+      "name": "流畅看体育【ok专用PY】",
       "type": 3,
       "api": "https://ghfast.top/https://raw.githubusercontent.com/Heiwk/YUlong/main/py/kzbty.py",
       "ext": {}
     },
     {
-      "name": "iptv345(python)",
+      "name": "流畅看345【ok专用PY】",
       "type": 3,
       "api": "https://ghfast.top/https://raw.githubusercontent.com/Heiwk/YUlong/main/py/iptv345.py",
       "ext": {}
     },
     {
-      "name": "yoo体育(python)",
+      "name": "流畅看yoo直播【ok专用PY】",
       "type": 3,
       "api": "https://ghfast.top/https://raw.githubusercontent.com/Heiwk/YUlong/main/py/yoozb.py",
       "ext": {}
     },
     {
-      "name": "360pai",
+      "name": "流畅看直播360pai【ok专用PY】",
       "type": 3,
       "api": "https://ghfast.top/https://raw.githubusercontent.com/Heiwk/YUlong/main/py/360pai.py",
       "ext": {}
